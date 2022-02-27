@@ -1,0 +1,82 @@
+/* .NavbarItems {
+	background-color: bisque;
+	display: flex;
+	justify-content: center;
+      }
+      .nav-item {
+	cursor: pointer;
+	float: left;
+      } */
+/* .nav-menu {
+	display: grid;
+	grid-template-columns: repeat(5, auto);
+	grid-gap: 10px;
+	list-style: none;
+	text-align: center;
+	justify-content: end;
+	margin-right: 2rem;
+      } */
+      nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: bisque;
+      }
+      nav ul li {
+	float: left;
+      }
+      
+      nav ul li a {
+	text-decoration: none;
+	padding: 0.5rem 1rem;
+	display: block;
+	text-align: center;
+	padding: 14px 16px;
+      }
+      
+      .nav-links:hover {
+	background-color: aquamarine;
+      }
+      
+      #block1 {
+	position: absolute;
+	clear: both;
+      }
+      
+      #Bar {
+	width: 100%;
+	clear: both;
+      }
+      
+      h1 {
+	color: darkgoldenrod;
+      }
+      
+      /* #content {
+	      background-color: blueviolet;
+	    }
+	    
+	    #bordered-table{
+	      background-color: aqua;
+	    } */
+      
+      .reservationList table {
+	margin: 10px;
+      }
+      
+      .enter {
+	margin: 10px;
+      }
+      
+      .welcome {
+	font-family: cursive;
+	font-size: x-large;
+	color: darkkhaki;
+      }
+      
+      #seatsavail {
+	font-size: x-large;
+	margin: 10px;
+      }
+      
